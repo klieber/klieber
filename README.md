@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C266%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C266%20hrs%2016%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -28,7 +28,8 @@ Sunday       29 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Groovy                   23 mins             █████████████████████████   100.0%
+Groovy                   23 mins             ████████████████████████░   97.18% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.82%
 
 ```
 
@@ -45,5 +46,5 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2022 08:27:14 UTC
+ Last Updated on 17/11/2022 08:26:01 UTC
 <!--END_SECTION:waka-->
