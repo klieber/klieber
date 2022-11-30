@@ -28,7 +28,7 @@ Sunday       30 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Groovy                   44 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -45,5 +45,5 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2022 08:23:27 UTC
+ Last Updated on 30/11/2022 08:23:25 UTC
 <!--END_SECTION:waka-->
