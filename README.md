@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C283%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C283%20hrs%208%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -28,7 +28,7 @@ Sunday          30 commits       ████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    8 mins              █████████████████████████   100.00 % 
+Other                    5 mins              █████████████████████████   100.00 % 
 
 ```
 
@@ -45,5 +45,5 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2023 08:22:48 UTC
+ Last Updated on 15/02/2023 08:22:41 UTC
 <!--END_SECTION:waka-->
