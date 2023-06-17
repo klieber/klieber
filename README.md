@@ -26,7 +26,7 @@ Sunday                   960 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Git                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -42,5 +42,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2023 08:19:18 UTC
+ Last Updated on 17/06/2023 08:18:15 UTC
 <!--END_SECTION:waka-->
