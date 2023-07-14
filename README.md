@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C305%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C305%20hrs%208%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -26,8 +26,8 @@ Sunday                   1014 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   98.22 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Other                    20 mins             █████████████████████████   99.75 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -43,5 +43,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2023 08:21:57 UTC
+ Last Updated on 14/07/2023 08:21:36 UTC
 <!--END_SECTION:waka-->
