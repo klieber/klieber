@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C359%20hrs%207%20mins-blue)
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -12,5 +14,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2025 08:30:41 UTC
+ Last Updated on 24/09/2025 08:31:08 UTC
 <!--END_SECTION:waka-->
