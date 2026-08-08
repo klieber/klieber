@@ -1,4 +1,40 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C322%20hrs%2052%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1637 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+🌆 Daytime                2313 commits        ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+🌃 Evening                4321 commits        ██████████░░░░░░░░░░░░░░░   41.10 % 
+🌙 Night                  2242 commits        █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1224 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Tuesday                  1318 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Wednesday                1282 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Thursday                 2225 commits        █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+Friday                   1842 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Saturday                 1362 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Sunday                   1260 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -12,5 +48,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 09:03:56 UTC
+ Last Updated on 08/08/2026 08:46:00 UTC
 <!--END_SECTION:waka-->
